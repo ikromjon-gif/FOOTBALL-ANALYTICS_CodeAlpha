@@ -27,6 +27,9 @@ HSV Color Classification	Team and jersey color classification
 NumPy	Coordinate and motion calculations
 Google Colab	GPU-based processing
 🏗️ System Architecture
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d6644714-5f93-4031-b7d9-695dba52fb09" />
+
 Football Video
       │
       ▼
